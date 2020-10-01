@@ -1,4 +1,6 @@
 html, body {
+  font-family: san-serif;
+  font-size: 30px;
   margin: 0;
   padding: 0;
 }
